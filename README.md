@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2792-neighboring-bitwise-xor](https://github.com/bhumi0987/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
 | [2945-find-maximum-non-decreasing-array-length](https://github.com/bhumi0987/LeetCode/tree/master/2945-find-maximum-non-decreasing-array-length) |
 | [2968-apply-operations-to-maximize-frequency-score](https://github.com/bhumi0987/LeetCode/tree/master/2968-apply-operations-to-maximize-frequency-score) |
+| [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/bhumi0987/LeetCode/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3074-apple-redistribution-into-boxes](https://github.com/bhumi0987/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/bhumi0987/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/bhumi0987/LeetCode/tree/master/3079-find-the-sum-of-encrypted-integers) |
@@ -562,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1989-minimum-xor-sum-of-two-arrays](https://github.com/bhumi0987/LeetCode/tree/master/1989-minimum-xor-sum-of-two-arrays) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/bhumi0987/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2792-neighboring-bitwise-xor](https://github.com/bhumi0987/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
+| [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/bhumi0987/LeetCode/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/bhumi0987/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/bhumi0987/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Combinatorics
