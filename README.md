@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/bhumi0987/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1390-four-divisors](https://github.com/bhumi0987/LeetCode/tree/master/1390-four-divisors) |
 | [1396-count-servers-that-communicate](https://github.com/bhumi0987/LeetCode/tree/master/1396-count-servers-that-communicate) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/bhumi0987/LeetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1466-jump-game-v](https://github.com/bhumi0987/LeetCode/tree/master/1466-jump-game-v) |
 | [1473-paint-house-iii](https://github.com/bhumi0987/LeetCode/tree/master/1473-paint-house-iii) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/bhumi0987/LeetCode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
@@ -434,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/bhumi0987/LeetCode/tree/master/0486-predict-the-winner) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/bhumi0987/LeetCode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/bhumi0987/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/bhumi0987/LeetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1466-jump-game-v](https://github.com/bhumi0987/LeetCode/tree/master/1466-jump-game-v) |
 | [1473-paint-house-iii](https://github.com/bhumi0987/LeetCode/tree/master/1473-paint-house-iii) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/bhumi0987/LeetCode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
