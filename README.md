@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/bhumi0987/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0770-couples-holding-hands](https://github.com/bhumi0987/LeetCode/tree/master/0770-couples-holding-hands) |
 | [0794-swim-in-rising-water](https://github.com/bhumi0987/LeetCode/tree/master/0794-swim-in-rising-water) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/bhumi0987/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0922-possible-bipartition](https://github.com/bhumi0987/LeetCode/tree/master/0922-possible-bipartition) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/bhumi0987/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/bhumi0987/LeetCode/tree/master/1396-count-servers-that-communicate) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/bhumi0987/LeetCode/tree/master/0169-majority-element) |
 | [0842-card-flipping-game](https://github.com/bhumi0987/LeetCode/tree/master/0842-card-flipping-game) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/bhumi0987/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0952-largest-component-size-by-common-factor](https://github.com/bhumi0987/LeetCode/tree/master/0952-largest-component-size-by-common-factor) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/bhumi0987/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/bhumi0987/LeetCode/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
@@ -400,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0687-longest-univalue-path](https://github.com/bhumi0987/LeetCode/tree/master/0687-longest-univalue-path) |
 | [0770-couples-holding-hands](https://github.com/bhumi0987/LeetCode/tree/master/0770-couples-holding-hands) |
 | [0794-swim-in-rising-water](https://github.com/bhumi0987/LeetCode/tree/master/0794-swim-in-rising-water) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/bhumi0987/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0922-possible-bipartition](https://github.com/bhumi0987/LeetCode/tree/master/0922-possible-bipartition) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/bhumi0987/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/bhumi0987/LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -515,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/bhumi0987/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/bhumi0987/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/bhumi0987/LeetCode/tree/master/0687-longest-univalue-path) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/bhumi0987/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/bhumi0987/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/bhumi0987/LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/bhumi0987/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
@@ -534,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/bhumi0987/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/bhumi0987/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/bhumi0987/LeetCode/tree/master/0687-longest-univalue-path) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/bhumi0987/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/bhumi0987/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/bhumi0987/LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/bhumi0987/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
