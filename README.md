@@ -323,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1612-avoid-flood-in-the-city](https://github.com/bhumi0987/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/bhumi0987/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2169-simple-bank-system](https://github.com/bhumi0987/LeetCode/tree/master/2169-simple-bank-system) |
+| [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/bhumi0987/LeetCode/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/bhumi0987/LeetCode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/bhumi0987/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/bhumi0987/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -486,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/bhumi0987/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/bhumi0987/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/bhumi0987/LeetCode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
+| [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/bhumi0987/LeetCode/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2211-count-collisions-on-a-road](https://github.com/bhumi0987/LeetCode/tree/master/2211-count-collisions-on-a-road) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/bhumi0987/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/bhumi0987/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
@@ -564,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/bhumi0987/LeetCode/tree/master/0169-majority-element) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/bhumi0987/LeetCode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1396-count-servers-that-communicate](https://github.com/bhumi0987/LeetCode/tree/master/1396-count-servers-that-communicate) |
+| [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/bhumi0987/LeetCode/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/bhumi0987/LeetCode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/bhumi0987/LeetCode/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [2982-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/bhumi0987/LeetCode/tree/master/2982-find-longest-special-substring-that-occurs-thrice-ii) |
