@@ -395,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/bhumi0987/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/bhumi0987/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3433-count-mentions-per-user](https://github.com/bhumi0987/LeetCode/tree/master/3433-count-mentions-per-user) |
+| [3612-process-string-with-special-operations-i](https://github.com/bhumi0987/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/bhumi0987/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/bhumi0987/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/bhumi0987/LeetCode/tree/master/3775-reverse-words-with-same-vowel-count) |
@@ -497,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/bhumi0987/LeetCode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/bhumi0987/LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3606-coupon-code-validator](https://github.com/bhumi0987/LeetCode/tree/master/3606-coupon-code-validator) |
+| [3612-process-string-with-special-operations-i](https://github.com/bhumi0987/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/bhumi0987/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/bhumi0987/LeetCode/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [4055-longest-balanced-substring-i](https://github.com/bhumi0987/LeetCode/tree/master/4055-longest-balanced-substring-i) |
