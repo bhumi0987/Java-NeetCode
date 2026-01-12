@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/bhumi0987/LeetCode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2499-minimum-money-required-before-transactions](https://github.com/bhumi0987/LeetCode/tree/master/2499-minimum-money-required-before-transactions) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/bhumi0987/LeetCode/tree/master/2538-minimum-cost-to-make-array-equal) |
+| [2576-find-the-maximum-number-of-marked-indices](https://github.com/bhumi0987/LeetCode/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [2604-minimum-operations-to-make-array-equal-ii](https://github.com/bhumi0987/LeetCode/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/bhumi0987/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2648-number-of-ways-to-earn-points](https://github.com/bhumi0987/LeetCode/tree/master/2648-number-of-ways-to-earn-points) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2141-maximum-running-time-of-n-computers](https://github.com/bhumi0987/LeetCode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/bhumi0987/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/bhumi0987/LeetCode/tree/master/2538-minimum-cost-to-make-array-equal) |
+| [2576-find-the-maximum-number-of-marked-indices](https://github.com/bhumi0987/LeetCode/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/bhumi0987/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2945-find-maximum-non-decreasing-array-length](https://github.com/bhumi0987/LeetCode/tree/master/2945-find-maximum-non-decreasing-array-length) |
 | [2968-apply-operations-to-maximize-frequency-score](https://github.com/bhumi0987/LeetCode/tree/master/2968-apply-operations-to-maximize-frequency-score) |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/bhumi0987/LeetCode/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2499-minimum-money-required-before-transactions](https://github.com/bhumi0987/LeetCode/tree/master/2499-minimum-money-required-before-transactions) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/bhumi0987/LeetCode/tree/master/2538-minimum-cost-to-make-array-equal) |
+| [2576-find-the-maximum-number-of-marked-indices](https://github.com/bhumi0987/LeetCode/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [2604-minimum-operations-to-make-array-equal-ii](https://github.com/bhumi0987/LeetCode/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/bhumi0987/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/bhumi0987/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -317,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1009-pancake-sorting](https://github.com/bhumi0987/LeetCode/tree/master/1009-pancake-sorting) |
 | [1659-get-the-maximum-score](https://github.com/bhumi0987/LeetCode/tree/master/1659-get-the-maximum-score) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/bhumi0987/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2576-find-the-maximum-number-of-marked-indices](https://github.com/bhumi0987/LeetCode/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/bhumi0987/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/bhumi0987/LeetCode/tree/master/3775-reverse-words-with-same-vowel-count) |
 ## Hash Table
@@ -383,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/bhumi0987/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2499-minimum-money-required-before-transactions](https://github.com/bhumi0987/LeetCode/tree/master/2499-minimum-money-required-before-transactions) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/bhumi0987/LeetCode/tree/master/2538-minimum-cost-to-make-array-equal) |
+| [2576-find-the-maximum-number-of-marked-indices](https://github.com/bhumi0987/LeetCode/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/bhumi0987/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2968-apply-operations-to-maximize-frequency-score](https://github.com/bhumi0987/LeetCode/tree/master/2968-apply-operations-to-maximize-frequency-score) |
 | [3074-apple-redistribution-into-boxes](https://github.com/bhumi0987/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
