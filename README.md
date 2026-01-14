@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/bhumi0987/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3444-find-the-number-of-good-pairs-ii](https://github.com/bhumi0987/LeetCode/tree/master/3444-find-the-number-of-good-pairs-ii) |
 | [3453-separate-squares-i](https://github.com/bhumi0987/LeetCode/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/bhumi0987/LeetCode/tree/master/3454-separate-squares-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/bhumi0987/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3531-count-covered-buildings](https://github.com/bhumi0987/LeetCode/tree/master/3531-count-covered-buildings) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/bhumi0987/LeetCode/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/bhumi0987/LeetCode/tree/master/3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/bhumi0987/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3453-separate-squares-i](https://github.com/bhumi0987/LeetCode/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/bhumi0987/LeetCode/tree/master/3454-separate-squares-ii) |
 | [3608-minimum-time-for-k-connected-components](https://github.com/bhumi0987/LeetCode/tree/master/3608-minimum-time-for-k-connected-components) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/bhumi0987/LeetCode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/bhumi0987/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -658,6 +660,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/bhumi0987/LeetCode/tree/master/0406-queue-reconstruction-by-height) |
+| [3454-separate-squares-ii](https://github.com/bhumi0987/LeetCode/tree/master/3454-separate-squares-ii) |
 ## Number Theory
 |  |
 | ------- |
@@ -697,4 +700,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/bhumi0987/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
+## Line Sweep
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/bhumi0987/LeetCode/tree/master/3454-separate-squares-ii) |
 <!---LeetCode Topics End-->
