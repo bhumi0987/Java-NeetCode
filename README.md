@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/bhumi0987/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2092-find-all-people-with-secret](https://github.com/bhumi0987/LeetCode/tree/master/2092-find-all-people-with-secret) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/bhumi0987/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/bhumi0987/LeetCode/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3105-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/bhumi0987/LeetCode/tree/master/3105-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/bhumi0987/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3863-power-grid-maintenance](https://github.com/bhumi0987/LeetCode/tree/master/3863-power-grid-maintenance) |
@@ -490,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/bhumi0987/LeetCode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2648-number-of-ways-to-earn-points](https://github.com/bhumi0987/LeetCode/tree/master/2648-number-of-ways-to-earn-points) |
 | [2945-find-maximum-non-decreasing-array-length](https://github.com/bhumi0987/LeetCode/tree/master/2945-find-maximum-non-decreasing-array-length) |
+| [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/bhumi0987/LeetCode/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3105-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/bhumi0987/LeetCode/tree/master/3105-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3148-maximum-difference-score-in-a-grid](https://github.com/bhumi0987/LeetCode/tree/master/3148-maximum-difference-score-in-a-grid) |
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/bhumi0987/LeetCode/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
@@ -693,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/bhumi0987/LeetCode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+| [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/bhumi0987/LeetCode/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
 ## Monotonic Queue
 |  |
 | ------- |
