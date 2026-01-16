@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0805-escape-the-ghosts](https://github.com/bhumi0987/LeetCode/tree/master/0805-escape-the-ghosts) |
 | [0952-largest-component-size-by-common-factor](https://github.com/bhumi0987/LeetCode/tree/master/0952-largest-component-size-by-common-factor) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/bhumi0987/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1041-robot-bounded-in-circle](https://github.com/bhumi0987/LeetCode/tree/master/1041-robot-bounded-in-circle) |
 | [1266-minimum-time-visiting-all-points](https://github.com/bhumi0987/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/bhumi0987/LeetCode/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1390-four-divisors](https://github.com/bhumi0987/LeetCode/tree/master/1390-four-divisors) |
@@ -416,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1041-robot-bounded-in-circle](https://github.com/bhumi0987/LeetCode/tree/master/1041-robot-bounded-in-circle) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/bhumi0987/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/bhumi0987/LeetCode/tree/master/2169-simple-bank-system) |
 | [2211-count-collisions-on-a-road](https://github.com/bhumi0987/LeetCode/tree/master/2211-count-collisions-on-a-road) |
@@ -512,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/bhumi0987/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/bhumi0987/LeetCode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/bhumi0987/LeetCode/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
+| [1041-robot-bounded-in-circle](https://github.com/bhumi0987/LeetCode/tree/master/1041-robot-bounded-in-circle) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/bhumi0987/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/bhumi0987/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/bhumi0987/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
