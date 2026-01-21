@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2205-find-good-days-to-rob-the-bank](https://github.com/bhumi0987/LeetCode/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/bhumi0987/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/bhumi0987/LeetCode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
+| [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/bhumi0987/LeetCode/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/bhumi0987/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/bhumi0987/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/bhumi0987/LeetCode/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1612-avoid-flood-in-the-city](https://github.com/bhumi0987/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [2054-two-best-non-overlapping-events](https://github.com/bhumi0987/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/bhumi0987/LeetCode/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/bhumi0987/LeetCode/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/bhumi0987/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/bhumi0987/LeetCode/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/bhumi0987/LeetCode/tree/master/2576-find-the-maximum-number-of-marked-indices) |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-maximum-matrix-sum](https://github.com/bhumi0987/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [1994-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/bhumi0987/LeetCode/tree/master/1994-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/bhumi0987/LeetCode/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/bhumi0987/LeetCode/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/bhumi0987/LeetCode/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2499-minimum-money-required-before-transactions](https://github.com/bhumi0987/LeetCode/tree/master/2499-minimum-money-required-before-transactions) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/bhumi0987/LeetCode/tree/master/2538-minimum-cost-to-make-array-equal) |
@@ -404,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-two-best-non-overlapping-events](https://github.com/bhumi0987/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/bhumi0987/LeetCode/tree/master/2092-find-all-people-with-secret) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/bhumi0987/LeetCode/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/bhumi0987/LeetCode/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/bhumi0987/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/bhumi0987/LeetCode/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/bhumi0987/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -558,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-largest-magic-square](https://github.com/bhumi0987/LeetCode/tree/master/1895-largest-magic-square) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/bhumi0987/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/bhumi0987/LeetCode/tree/master/2205-find-good-days-to-rob-the-bank) |
+| [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/bhumi0987/LeetCode/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/bhumi0987/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/bhumi0987/LeetCode/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/bhumi0987/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
@@ -671,6 +676,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/bhumi0987/LeetCode/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/bhumi0987/LeetCode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/bhumi0987/LeetCode/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/bhumi0987/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2968-apply-operations-to-maximize-frequency-score](https://github.com/bhumi0987/LeetCode/tree/master/2968-apply-operations-to-maximize-frequency-score) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/bhumi0987/LeetCode/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
