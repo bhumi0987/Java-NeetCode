@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2175-count-nodes-with-the-highest-score](https://github.com/bhumi0987/LeetCode/tree/master/2175-count-nodes-with-the-highest-score) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/bhumi0987/LeetCode/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/bhumi0987/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/bhumi0987/LeetCode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/bhumi0987/LeetCode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/bhumi0987/LeetCode/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/bhumi0987/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-maximum-matrix-sum](https://github.com/bhumi0987/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [1994-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/bhumi0987/LeetCode/tree/master/1994-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/bhumi0987/LeetCode/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/bhumi0987/LeetCode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/bhumi0987/LeetCode/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/bhumi0987/LeetCode/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2499-minimum-money-required-before-transactions](https://github.com/bhumi0987/LeetCode/tree/master/2499-minimum-money-required-before-transactions) |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/bhumi0987/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2169-simple-bank-system](https://github.com/bhumi0987/LeetCode/tree/master/2169-simple-bank-system) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/bhumi0987/LeetCode/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/bhumi0987/LeetCode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/bhumi0987/LeetCode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/bhumi0987/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/bhumi0987/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -629,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/bhumi0987/LeetCode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1396-count-servers-that-communicate](https://github.com/bhumi0987/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/bhumi0987/LeetCode/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/bhumi0987/LeetCode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/bhumi0987/LeetCode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/bhumi0987/LeetCode/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [2982-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/bhumi0987/LeetCode/tree/master/2982-find-longest-special-substring-that-occurs-thrice-ii) |
