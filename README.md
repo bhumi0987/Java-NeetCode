@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1338-reduce-array-size-to-the-half](https://github.com/bhumi0987/LeetCode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/bhumi0987/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/bhumi0987/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/bhumi0987/LeetCode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1390-four-divisors](https://github.com/bhumi0987/LeetCode/tree/master/1390-four-divisors) |
 | [1396-count-servers-that-communicate](https://github.com/bhumi0987/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/bhumi0987/LeetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/bhumi0987/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0918-reachable-nodes-in-subdivided-graph](https://github.com/bhumi0987/LeetCode/tree/master/0918-reachable-nodes-in-subdivided-graph) |
 | [1338-reduce-array-size-to-the-half](https://github.com/bhumi0987/LeetCode/tree/master/1338-reduce-array-size-to-the-half) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/bhumi0987/LeetCode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1612-avoid-flood-in-the-city](https://github.com/bhumi0987/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [2054-two-best-non-overlapping-events](https://github.com/bhumi0987/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
 | [2686-minimum-cost-of-a-path-with-special-roads](https://github.com/bhumi0987/LeetCode/tree/master/2686-minimum-cost-of-a-path-with-special-roads) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-reachable-nodes-in-subdivided-graph](https://github.com/bhumi0987/LeetCode/tree/master/0918-reachable-nodes-in-subdivided-graph) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/bhumi0987/LeetCode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2686-minimum-cost-of-a-path-with-special-roads](https://github.com/bhumi0987/LeetCode/tree/master/2686-minimum-cost-of-a-path-with-special-roads) |
 | [2959-number-of-possible-sets-of-closing-branches](https://github.com/bhumi0987/LeetCode/tree/master/2959-number-of-possible-sets-of-closing-branches) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/bhumi0987/LeetCode/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
@@ -243,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1129-shortest-path-with-alternating-colors](https://github.com/bhumi0987/LeetCode/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/bhumi0987/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1162-as-far-from-land-as-possible](https://github.com/bhumi0987/LeetCode/tree/master/1162-as-far-from-land-as-possible) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/bhumi0987/LeetCode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1396-count-servers-that-communicate](https://github.com/bhumi0987/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/bhumi0987/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2092-find-all-people-with-secret](https://github.com/bhumi0987/LeetCode/tree/master/2092-find-all-people-with-secret) |
@@ -261,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1162-as-far-from-land-as-possible](https://github.com/bhumi0987/LeetCode/tree/master/1162-as-far-from-land-as-possible) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/bhumi0987/LeetCode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/bhumi0987/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/bhumi0987/LeetCode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1396-count-servers-that-communicate](https://github.com/bhumi0987/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/bhumi0987/LeetCode/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
 | [1895-largest-magic-square](https://github.com/bhumi0987/LeetCode/tree/master/1895-largest-magic-square) |
@@ -773,5 +778,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1129-shortest-path-with-alternating-colors](https://github.com/bhumi0987/LeetCode/tree/master/1129-shortest-path-with-alternating-colors) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/bhumi0987/LeetCode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2959-number-of-possible-sets-of-closing-branches](https://github.com/bhumi0987/LeetCode/tree/master/2959-number-of-possible-sets-of-closing-branches) |
 <!---LeetCode Topics End-->
