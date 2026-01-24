@@ -390,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/bhumi0987/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/bhumi0987/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2721-sum-of-distances](https://github.com/bhumi0987/LeetCode/tree/master/2721-sum-of-distances) |
+| [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/bhumi0987/LeetCode/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/bhumi0987/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/bhumi0987/LeetCode/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [2982-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/bhumi0987/LeetCode/tree/master/2982-find-longest-special-substring-that-occurs-thrice-ii) |
@@ -538,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2205-find-good-days-to-rob-the-bank](https://github.com/bhumi0987/LeetCode/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/bhumi0987/LeetCode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2648-number-of-ways-to-earn-points](https://github.com/bhumi0987/LeetCode/tree/master/2648-number-of-ways-to-earn-points) |
+| [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/bhumi0987/LeetCode/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
 | [2945-find-maximum-non-decreasing-array-length](https://github.com/bhumi0987/LeetCode/tree/master/2945-find-maximum-non-decreasing-array-length) |
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/bhumi0987/LeetCode/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3105-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/bhumi0987/LeetCode/tree/master/3105-minimum-edge-reversals-so-every-node-is-reachable) |
@@ -572,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2211-count-collisions-on-a-road](https://github.com/bhumi0987/LeetCode/tree/master/2211-count-collisions-on-a-road) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/bhumi0987/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/bhumi0987/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/bhumi0987/LeetCode/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/bhumi0987/LeetCode/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [2982-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/bhumi0987/LeetCode/tree/master/2982-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/bhumi0987/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
@@ -788,4 +791,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1129-shortest-path-with-alternating-colors](https://github.com/bhumi0987/LeetCode/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/bhumi0987/LeetCode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2959-number-of-possible-sets-of-closing-branches](https://github.com/bhumi0987/LeetCode/tree/master/2959-number-of-possible-sets-of-closing-branches) |
+## Backtracking
+|  |
+| ------- |
+| [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/bhumi0987/LeetCode/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
 <!---LeetCode Topics End-->
