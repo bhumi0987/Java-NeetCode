@@ -306,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/bhumi0987/LeetCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/bhumi0987/LeetCode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/bhumi0987/LeetCode/tree/master/3079-find-the-sum-of-encrypted-integers) |
+| [3317-find-the-number-of-possible-ways-for-an-event](https://github.com/bhumi0987/LeetCode/tree/master/3317-find-the-number-of-possible-ways-for-an-event) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/bhumi0987/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/bhumi0987/LeetCode/tree/master/3433-count-mentions-per-user) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/bhumi0987/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -544,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/bhumi0987/LeetCode/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/bhumi0987/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3298-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/bhumi0987/LeetCode/tree/master/3298-maximize-consecutive-elements-in-an-array-after-modification) |
+| [3317-find-the-number-of-possible-ways-for-an-event](https://github.com/bhumi0987/LeetCode/tree/master/3317-find-the-number-of-possible-ways-for-an-event) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/bhumi0987/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/bhumi0987/LeetCode/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/bhumi0987/LeetCode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
@@ -678,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [3317-find-the-number-of-possible-ways-for-an-event](https://github.com/bhumi0987/LeetCode/tree/master/3317-find-the-number-of-possible-ways-for-an-event) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/bhumi0987/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/bhumi0987/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Bitmask
