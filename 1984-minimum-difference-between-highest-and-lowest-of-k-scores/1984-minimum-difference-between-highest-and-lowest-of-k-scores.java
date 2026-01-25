@@ -1,14 +1,4 @@
 class Solution {
-    static {
-        Runtime.getRuntime().gc();
-        Runtime.getRuntime().addShutdownHook(new Thread(()->{
-            try(FileWriter f = new FileWriter("display_runtime.txt")){
-                f.write("0");
-            }catch(Exception e){
-
-            }
-        }));
-    }
     public int minimumDifference(int[] nums, int k) {
         Arrays.sort(nums);
         int i=0;
