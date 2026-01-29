@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1659-get-the-maximum-score](https://github.com/bhumi0987/LeetCode/tree/master/1659-get-the-maximum-score) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/bhumi0987/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/bhumi0987/LeetCode/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
+| [1766-tree-of-coprimes](https://github.com/bhumi0987/LeetCode/tree/master/1766-tree-of-coprimes) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/bhumi0987/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1895-largest-magic-square](https://github.com/bhumi0987/LeetCode/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/bhumi0987/LeetCode/tree/master/1975-maximum-matrix-sum) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1303-minimum-moves-to-reach-target-score](https://github.com/bhumi0987/LeetCode/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1390-four-divisors](https://github.com/bhumi0987/LeetCode/tree/master/1390-four-divisors) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/bhumi0987/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
+| [1766-tree-of-coprimes](https://github.com/bhumi0987/LeetCode/tree/master/1766-tree-of-coprimes) |
 | [1925-count-square-sum-triples](https://github.com/bhumi0987/LeetCode/tree/master/1925-count-square-sum-triples) |
 | [1998-gcd-sort-of-an-array](https://github.com/bhumi0987/LeetCode/tree/master/1998-gcd-sort-of-an-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/bhumi0987/LeetCode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -514,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/bhumi0987/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/bhumi0987/LeetCode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/bhumi0987/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [1766-tree-of-coprimes](https://github.com/bhumi0987/LeetCode/tree/master/1766-tree-of-coprimes) |
 | [2092-find-all-people-with-secret](https://github.com/bhumi0987/LeetCode/tree/master/2092-find-all-people-with-secret) |
 | [2175-count-nodes-with-the-highest-score](https://github.com/bhumi0987/LeetCode/tree/master/2175-count-nodes-with-the-highest-score) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/bhumi0987/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -650,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/bhumi0987/LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/bhumi0987/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/bhumi0987/LeetCode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [1766-tree-of-coprimes](https://github.com/bhumi0987/LeetCode/tree/master/1766-tree-of-coprimes) |
 | [2175-count-nodes-with-the-highest-score](https://github.com/bhumi0987/LeetCode/tree/master/2175-count-nodes-with-the-highest-score) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/bhumi0987/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/bhumi0987/LeetCode/tree/master/2872-maximum-number-of-k-divisible-components) |
@@ -770,6 +774,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0952-largest-component-size-by-common-factor](https://github.com/bhumi0987/LeetCode/tree/master/0952-largest-component-size-by-common-factor) |
+| [1766-tree-of-coprimes](https://github.com/bhumi0987/LeetCode/tree/master/1766-tree-of-coprimes) |
 | [1998-gcd-sort-of-an-array](https://github.com/bhumi0987/LeetCode/tree/master/1998-gcd-sort-of-an-array) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/bhumi0987/LeetCode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2543-check-if-point-is-reachable](https://github.com/bhumi0987/LeetCode/tree/master/2543-check-if-point-is-reachable) |
