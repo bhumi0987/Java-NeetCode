@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2968-apply-operations-to-maximize-frequency-score](https://github.com/bhumi0987/LeetCode/tree/master/2968-apply-operations-to-maximize-frequency-score) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/bhumi0987/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/bhumi0987/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/bhumi0987/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/bhumi0987/LeetCode/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/bhumi0987/LeetCode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3074-apple-redistribution-into-boxes](https://github.com/bhumi0987/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2686-minimum-cost-of-a-path-with-special-roads](https://github.com/bhumi0987/LeetCode/tree/master/2686-minimum-cost-of-a-path-with-special-roads) |
 | [2959-number-of-possible-sets-of-closing-branches](https://github.com/bhumi0987/LeetCode/tree/master/2959-number-of-possible-sets-of-closing-branches) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/bhumi0987/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/bhumi0987/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/bhumi0987/LeetCode/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/bhumi0987/LeetCode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Binary Search
@@ -571,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2648-number-of-ways-to-earn-points](https://github.com/bhumi0987/LeetCode/tree/master/2648-number-of-ways-to-earn-points) |
 | [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/bhumi0987/LeetCode/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
 | [2945-find-maximum-non-decreasing-array-length](https://github.com/bhumi0987/LeetCode/tree/master/2945-find-maximum-non-decreasing-array-length) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/bhumi0987/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/bhumi0987/LeetCode/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3105-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/bhumi0987/LeetCode/tree/master/3105-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3148-maximum-difference-score-in-a-grid](https://github.com/bhumi0987/LeetCode/tree/master/3148-maximum-difference-score-in-a-grid) |
@@ -610,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2522-partition-string-into-substrings-with-values-at-most-k](https://github.com/bhumi0987/LeetCode/tree/master/2522-partition-string-into-substrings-with-values-at-most-k) |
 | [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/bhumi0987/LeetCode/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/bhumi0987/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/bhumi0987/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/bhumi0987/LeetCode/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [2982-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/bhumi0987/LeetCode/tree/master/2982-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/bhumi0987/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
@@ -834,6 +838,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/bhumi0987/LeetCode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2959-number-of-possible-sets-of-closing-branches](https://github.com/bhumi0987/LeetCode/tree/master/2959-number-of-possible-sets-of-closing-branches) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/bhumi0987/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/bhumi0987/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/bhumi0987/LeetCode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Backtracking
 |  |
@@ -848,4 +853,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0839-similar-string-groups](https://github.com/bhumi0987/LeetCode/tree/master/0839-similar-string-groups) |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/bhumi0987/LeetCode/tree/master/1061-lexicographically-smallest-equivalent-string) |
+## Trie
+|  |
+| ------- |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/bhumi0987/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 <!---LeetCode Topics End-->
