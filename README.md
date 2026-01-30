@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/bhumi0987/LeetCode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1009-pancake-sorting](https://github.com/bhumi0987/LeetCode/tree/master/1009-pancake-sorting) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/bhumi0987/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1024-video-stitching](https://github.com/bhumi0987/LeetCode/tree/master/1024-video-stitching) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/bhumi0987/LeetCode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1090-largest-values-from-labels](https://github.com/bhumi0987/LeetCode/tree/master/1090-largest-values-from-labels) |
 | [1139-previous-permutation-with-one-swap](https://github.com/bhumi0987/LeetCode/tree/master/1139-previous-permutation-with-one-swap) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0770-couples-holding-hands](https://github.com/bhumi0987/LeetCode/tree/master/0770-couples-holding-hands) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/bhumi0987/LeetCode/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [1009-pancake-sorting](https://github.com/bhumi0987/LeetCode/tree/master/1009-pancake-sorting) |
+| [1024-video-stitching](https://github.com/bhumi0987/LeetCode/tree/master/1024-video-stitching) |
 | [1090-largest-values-from-labels](https://github.com/bhumi0987/LeetCode/tree/master/1090-largest-values-from-labels) |
 | [1139-previous-permutation-with-one-swap](https://github.com/bhumi0987/LeetCode/tree/master/1139-previous-permutation-with-one-swap) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/bhumi0987/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -549,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/bhumi0987/LeetCode/tree/master/0486-predict-the-winner) |
 | [0845-longest-mountain-in-array](https://github.com/bhumi0987/LeetCode/tree/master/0845-longest-mountain-in-array) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/bhumi0987/LeetCode/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [1024-video-stitching](https://github.com/bhumi0987/LeetCode/tree/master/1024-video-stitching) |
 | [1162-as-far-from-land-as-possible](https://github.com/bhumi0987/LeetCode/tree/master/1162-as-far-from-land-as-possible) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/bhumi0987/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1349-maximum-students-taking-exam](https://github.com/bhumi0987/LeetCode/tree/master/1349-maximum-students-taking-exam) |
