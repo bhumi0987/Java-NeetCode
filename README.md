@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1024-video-stitching](https://github.com/bhumi0987/LeetCode/tree/master/1024-video-stitching) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/bhumi0987/LeetCode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1090-largest-values-from-labels](https://github.com/bhumi0987/LeetCode/tree/master/1090-largest-values-from-labels) |
+| [1131-maximum-of-absolute-value-expression](https://github.com/bhumi0987/LeetCode/tree/master/1131-maximum-of-absolute-value-expression) |
 | [1139-previous-permutation-with-one-swap](https://github.com/bhumi0987/LeetCode/tree/master/1139-previous-permutation-with-one-swap) |
 | [1162-as-far-from-land-as-possible](https://github.com/bhumi0987/LeetCode/tree/master/1162-as-far-from-land-as-possible) |
 | [1200-minimum-absolute-difference](https://github.com/bhumi0987/LeetCode/tree/master/1200-minimum-absolute-difference) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-largest-component-size-by-common-factor](https://github.com/bhumi0987/LeetCode/tree/master/0952-largest-component-size-by-common-factor) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/bhumi0987/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1041-robot-bounded-in-circle](https://github.com/bhumi0987/LeetCode/tree/master/1041-robot-bounded-in-circle) |
+| [1131-maximum-of-absolute-value-expression](https://github.com/bhumi0987/LeetCode/tree/master/1131-maximum-of-absolute-value-expression) |
 | [1266-minimum-time-visiting-all-points](https://github.com/bhumi0987/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1276-number-of-burgers-with-no-waste-of-ingredients](https://github.com/bhumi0987/LeetCode/tree/master/1276-number-of-burgers-with-no-waste-of-ingredients) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/bhumi0987/LeetCode/tree/master/1303-minimum-moves-to-reach-target-score) |
