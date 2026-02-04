@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/bhumi0987/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3637-trionic-array-i](https://github.com/bhumi0987/LeetCode/tree/master/3637-trionic-array-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/bhumi0987/LeetCode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3640-trionic-array-ii](https://github.com/bhumi0987/LeetCode/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/bhumi0987/LeetCode/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3660-jump-game-ix](https://github.com/bhumi0987/LeetCode/tree/master/3660-jump-game-ix) |
 | [3760-assign-elements-to-groups-with-constraints](https://github.com/bhumi0987/LeetCode/tree/master/3760-assign-elements-to-groups-with-constraints) |
@@ -602,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/bhumi0987/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/bhumi0987/LeetCode/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/bhumi0987/LeetCode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+| [3640-trionic-array-ii](https://github.com/bhumi0987/LeetCode/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/bhumi0987/LeetCode/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3660-jump-game-ix](https://github.com/bhumi0987/LeetCode/tree/master/3660-jump-game-ix) |
 | [3795-zero-array-transformation-iv](https://github.com/bhumi0987/LeetCode/tree/master/3795-zero-array-transformation-iv) |
