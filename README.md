@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/bhumi0987/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1266-minimum-time-visiting-all-points](https://github.com/bhumi0987/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/bhumi0987/LeetCode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1301-number-of-paths-with-max-score](https://github.com/bhumi0987/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1338-reduce-array-size-to-the-half](https://github.com/bhumi0987/LeetCode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1349-maximum-students-taking-exam](https://github.com/bhumi0987/LeetCode/tree/master/1349-maximum-students-taking-exam) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/bhumi0987/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/bhumi0987/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [1162-as-far-from-land-as-possible](https://github.com/bhumi0987/LeetCode/tree/master/1162-as-far-from-land-as-possible) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/bhumi0987/LeetCode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1301-number-of-paths-with-max-score](https://github.com/bhumi0987/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1349-maximum-students-taking-exam](https://github.com/bhumi0987/LeetCode/tree/master/1349-maximum-students-taking-exam) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/bhumi0987/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/bhumi0987/LeetCode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -569,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1024-video-stitching](https://github.com/bhumi0987/LeetCode/tree/master/1024-video-stitching) |
 | [1162-as-far-from-land-as-possible](https://github.com/bhumi0987/LeetCode/tree/master/1162-as-far-from-land-as-possible) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/bhumi0987/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1301-number-of-paths-with-max-score](https://github.com/bhumi0987/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1349-maximum-students-taking-exam](https://github.com/bhumi0987/LeetCode/tree/master/1349-maximum-students-taking-exam) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/bhumi0987/LeetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1466-jump-game-v](https://github.com/bhumi0987/LeetCode/tree/master/1466-jump-game-v) |
