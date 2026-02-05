@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1139-previous-permutation-with-one-swap](https://github.com/bhumi0987/LeetCode/tree/master/1139-previous-permutation-with-one-swap) |
 | [1162-as-far-from-land-as-possible](https://github.com/bhumi0987/LeetCode/tree/master/1162-as-far-from-land-as-possible) |
 | [1200-minimum-absolute-difference](https://github.com/bhumi0987/LeetCode/tree/master/1200-minimum-absolute-difference) |
+| [1250-check-if-it-is-a-good-array](https://github.com/bhumi0987/LeetCode/tree/master/1250-check-if-it-is-a-good-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/bhumi0987/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1266-minimum-time-visiting-all-points](https://github.com/bhumi0987/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/bhumi0987/LeetCode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1015-smallest-integer-divisible-by-k](https://github.com/bhumi0987/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1041-robot-bounded-in-circle](https://github.com/bhumi0987/LeetCode/tree/master/1041-robot-bounded-in-circle) |
 | [1131-maximum-of-absolute-value-expression](https://github.com/bhumi0987/LeetCode/tree/master/1131-maximum-of-absolute-value-expression) |
+| [1250-check-if-it-is-a-good-array](https://github.com/bhumi0987/LeetCode/tree/master/1250-check-if-it-is-a-good-array) |
 | [1266-minimum-time-visiting-all-points](https://github.com/bhumi0987/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1276-number-of-burgers-with-no-waste-of-ingredients](https://github.com/bhumi0987/LeetCode/tree/master/1276-number-of-burgers-with-no-waste-of-ingredients) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/bhumi0987/LeetCode/tree/master/1303-minimum-moves-to-reach-target-score) |
@@ -808,6 +810,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0952-largest-component-size-by-common-factor](https://github.com/bhumi0987/LeetCode/tree/master/0952-largest-component-size-by-common-factor) |
+| [1250-check-if-it-is-a-good-array](https://github.com/bhumi0987/LeetCode/tree/master/1250-check-if-it-is-a-good-array) |
 | [1766-tree-of-coprimes](https://github.com/bhumi0987/LeetCode/tree/master/1766-tree-of-coprimes) |
 | [1998-gcd-sort-of-an-array](https://github.com/bhumi0987/LeetCode/tree/master/1998-gcd-sort-of-an-array) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/bhumi0987/LeetCode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
