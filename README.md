@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/bhumi0987/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0477-total-hamming-distance](https://github.com/bhumi0987/LeetCode/tree/master/0477-total-hamming-distance) |
 | [0486-predict-the-winner](https://github.com/bhumi0987/LeetCode/tree/master/0486-predict-the-winner) |
+| [0526-beautiful-arrangement](https://github.com/bhumi0987/LeetCode/tree/master/0526-beautiful-arrangement) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/bhumi0987/LeetCode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/bhumi0987/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/bhumi0987/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -594,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/bhumi0987/LeetCode/tree/master/0413-arithmetic-slices) |
 | [0474-ones-and-zeroes](https://github.com/bhumi0987/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/bhumi0987/LeetCode/tree/master/0486-predict-the-winner) |
+| [0526-beautiful-arrangement](https://github.com/bhumi0987/LeetCode/tree/master/0526-beautiful-arrangement) |
 | [0845-longest-mountain-in-array](https://github.com/bhumi0987/LeetCode/tree/master/0845-longest-mountain-in-array) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/bhumi0987/LeetCode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1024-video-stitching](https://github.com/bhumi0987/LeetCode/tree/master/1024-video-stitching) |
@@ -771,6 +773,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0477-total-hamming-distance](https://github.com/bhumi0987/LeetCode/tree/master/0477-total-hamming-distance) |
+| [0526-beautiful-arrangement](https://github.com/bhumi0987/LeetCode/tree/master/0526-beautiful-arrangement) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/bhumi0987/LeetCode/tree/master/0864-shortest-path-to-get-all-keys) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/bhumi0987/LeetCode/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/bhumi0987/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -794,6 +797,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bitmask
 |  |
 | ------- |
+| [0526-beautiful-arrangement](https://github.com/bhumi0987/LeetCode/tree/master/0526-beautiful-arrangement) |
 | [1989-minimum-xor-sum-of-two-arrays](https://github.com/bhumi0987/LeetCode/tree/master/1989-minimum-xor-sum-of-two-arrays) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/bhumi0987/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/bhumi0987/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
@@ -911,6 +915,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0526-beautiful-arrangement](https://github.com/bhumi0987/LeetCode/tree/master/0526-beautiful-arrangement) |
 | [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/bhumi0987/LeetCode/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
 ## Bitmask DP
 |  |
