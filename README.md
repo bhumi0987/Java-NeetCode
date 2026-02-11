@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3640-trionic-array-ii](https://github.com/bhumi0987/LeetCode/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/bhumi0987/LeetCode/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3660-jump-game-ix](https://github.com/bhumi0987/LeetCode/tree/master/3660-jump-game-ix) |
+| [3721-longest-balanced-subarray-ii](https://github.com/bhumi0987/LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
 | [3760-assign-elements-to-groups-with-constraints](https://github.com/bhumi0987/LeetCode/tree/master/3760-assign-elements-to-groups-with-constraints) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/bhumi0987/LeetCode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/bhumi0987/LeetCode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
@@ -470,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/bhumi0987/LeetCode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3606-coupon-code-validator](https://github.com/bhumi0987/LeetCode/tree/master/3606-coupon-code-validator) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/bhumi0987/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3721-longest-balanced-subarray-ii](https://github.com/bhumi0987/LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
 | [3760-assign-elements-to-groups-with-constraints](https://github.com/bhumi0987/LeetCode/tree/master/3760-assign-elements-to-groups-with-constraints) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/bhumi0987/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/bhumi0987/LeetCode/tree/master/3863-power-grid-maintenance) |
@@ -704,6 +706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3616-make-array-elements-equal-to-zero](https://github.com/bhumi0987/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/bhumi0987/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/bhumi0987/LeetCode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3721-longest-balanced-subarray-ii](https://github.com/bhumi0987/LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
 ## Tree
 |  |
 | ------- |
@@ -817,6 +820,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/bhumi0987/LeetCode/tree/master/0169-majority-element) |
 | [1382-balance-a-binary-search-tree](https://github.com/bhumi0987/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
+| [3721-longest-balanced-subarray-ii](https://github.com/bhumi0987/LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -844,6 +848,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/bhumi0987/LeetCode/tree/master/0406-queue-reconstruction-by-height) |
 | [3454-separate-squares-ii](https://github.com/bhumi0987/LeetCode/tree/master/3454-separate-squares-ii) |
+| [3721-longest-balanced-subarray-ii](https://github.com/bhumi0987/LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
 ## Number Theory
 |  |
 | ------- |
