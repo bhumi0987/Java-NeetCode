@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1766-tree-of-coprimes](https://github.com/bhumi0987/LeetCode/tree/master/1766-tree-of-coprimes) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/bhumi0987/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1895-largest-magic-square](https://github.com/bhumi0987/LeetCode/tree/master/1895-largest-magic-square) |
+| [1906-minimum-absolute-difference-queries](https://github.com/bhumi0987/LeetCode/tree/master/1906-minimum-absolute-difference-queries) |
 | [1975-maximum-matrix-sum](https://github.com/bhumi0987/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/bhumi0987/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1989-minimum-xor-sum-of-two-arrays](https://github.com/bhumi0987/LeetCode/tree/master/1989-minimum-xor-sum-of-two-arrays) |
@@ -703,6 +704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/bhumi0987/LeetCode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1590-make-sum-divisible-by-p](https://github.com/bhumi0987/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1895-largest-magic-square](https://github.com/bhumi0987/LeetCode/tree/master/1895-largest-magic-square) |
+| [1906-minimum-absolute-difference-queries](https://github.com/bhumi0987/LeetCode/tree/master/1906-minimum-absolute-difference-queries) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/bhumi0987/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/bhumi0987/LeetCode/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/bhumi0987/LeetCode/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
