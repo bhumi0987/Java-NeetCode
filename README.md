@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0845-longest-mountain-in-array](https://github.com/bhumi0987/LeetCode/tree/master/0845-longest-mountain-in-array) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/bhumi0987/LeetCode/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0952-largest-component-size-by-common-factor](https://github.com/bhumi0987/LeetCode/tree/master/0952-largest-component-size-by-common-factor) |
+| [0954-array-of-doubled-pairs](https://github.com/bhumi0987/LeetCode/tree/master/0954-array-of-doubled-pairs) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/bhumi0987/LeetCode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1009-pancake-sorting](https://github.com/bhumi0987/LeetCode/tree/master/1009-pancake-sorting) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/bhumi0987/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0759-set-intersection-size-at-least-two](https://github.com/bhumi0987/LeetCode/tree/master/0759-set-intersection-size-at-least-two) |
 | [0770-couples-holding-hands](https://github.com/bhumi0987/LeetCode/tree/master/0770-couples-holding-hands) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/bhumi0987/LeetCode/tree/master/0779-max-chunks-to-make-sorted-ii) |
+| [0954-array-of-doubled-pairs](https://github.com/bhumi0987/LeetCode/tree/master/0954-array-of-doubled-pairs) |
 | [1009-pancake-sorting](https://github.com/bhumi0987/LeetCode/tree/master/1009-pancake-sorting) |
 | [1024-video-stitching](https://github.com/bhumi0987/LeetCode/tree/master/1024-video-stitching) |
 | [1090-largest-values-from-labels](https://github.com/bhumi0987/LeetCode/tree/master/1090-largest-values-from-labels) |
@@ -435,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0842-card-flipping-game](https://github.com/bhumi0987/LeetCode/tree/master/0842-card-flipping-game) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/bhumi0987/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0952-largest-component-size-by-common-factor](https://github.com/bhumi0987/LeetCode/tree/master/0952-largest-component-size-by-common-factor) |
+| [0954-array-of-doubled-pairs](https://github.com/bhumi0987/LeetCode/tree/master/0954-array-of-doubled-pairs) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/bhumi0987/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/bhumi0987/LeetCode/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/bhumi0987/LeetCode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
@@ -488,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/bhumi0987/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0759-set-intersection-size-at-least-two](https://github.com/bhumi0987/LeetCode/tree/master/0759-set-intersection-size-at-least-two) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/bhumi0987/LeetCode/tree/master/0779-max-chunks-to-make-sorted-ii) |
+| [0954-array-of-doubled-pairs](https://github.com/bhumi0987/LeetCode/tree/master/0954-array-of-doubled-pairs) |
 | [1009-pancake-sorting](https://github.com/bhumi0987/LeetCode/tree/master/1009-pancake-sorting) |
 | [1090-largest-values-from-labels](https://github.com/bhumi0987/LeetCode/tree/master/1090-largest-values-from-labels) |
 | [1200-minimum-absolute-difference](https://github.com/bhumi0987/LeetCode/tree/master/1200-minimum-absolute-difference) |
