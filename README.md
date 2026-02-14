@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/bhumi0987/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/bhumi0987/LeetCode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2169-simple-bank-system](https://github.com/bhumi0987/LeetCode/tree/master/2169-simple-bank-system) |
+| [2170-minimum-operations-to-make-the-array-alternating](https://github.com/bhumi0987/LeetCode/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
 | [2175-count-nodes-with-the-highest-score](https://github.com/bhumi0987/LeetCode/tree/master/2175-count-nodes-with-the-highest-score) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/bhumi0987/LeetCode/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/bhumi0987/LeetCode/tree/master/2208-minimum-operations-to-halve-array-sum) |
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-maximum-matrix-sum](https://github.com/bhumi0987/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [1994-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/bhumi0987/LeetCode/tree/master/1994-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/bhumi0987/LeetCode/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2170-minimum-operations-to-make-the-array-alternating](https://github.com/bhumi0987/LeetCode/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/bhumi0987/LeetCode/tree/master/2208-minimum-operations-to-halve-array-sum) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/bhumi0987/LeetCode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/bhumi0987/LeetCode/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
@@ -459,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/bhumi0987/LeetCode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/bhumi0987/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2169-simple-bank-system](https://github.com/bhumi0987/LeetCode/tree/master/2169-simple-bank-system) |
+| [2170-minimum-operations-to-make-the-array-alternating](https://github.com/bhumi0987/LeetCode/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/bhumi0987/LeetCode/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/bhumi0987/LeetCode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/bhumi0987/LeetCode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
@@ -786,6 +789,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/bhumi0987/LeetCode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1090-largest-values-from-labels](https://github.com/bhumi0987/LeetCode/tree/master/1090-largest-values-from-labels) |
 | [1396-count-servers-that-communicate](https://github.com/bhumi0987/LeetCode/tree/master/1396-count-servers-that-communicate) |
+| [2170-minimum-operations-to-make-the-array-alternating](https://github.com/bhumi0987/LeetCode/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/bhumi0987/LeetCode/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/bhumi0987/LeetCode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/bhumi0987/LeetCode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
