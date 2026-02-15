@@ -339,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/bhumi0987/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/bhumi0987/LeetCode/tree/master/0067-add-binary) |
 | [0096-unique-binary-search-trees](https://github.com/bhumi0987/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/bhumi0987/LeetCode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/bhumi0987/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -547,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/bhumi0987/LeetCode/tree/master/0067-add-binary) |
 | [1041-robot-bounded-in-circle](https://github.com/bhumi0987/LeetCode/tree/master/1041-robot-bounded-in-circle) |
 | [1562-find-latest-group-of-size-m](https://github.com/bhumi0987/LeetCode/tree/master/1562-find-latest-group-of-size-m) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/bhumi0987/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -670,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/bhumi0987/LeetCode/tree/master/0067-add-binary) |
 | [0474-ones-and-zeroes](https://github.com/bhumi0987/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0839-similar-string-groups](https://github.com/bhumi0987/LeetCode/tree/master/0839-similar-string-groups) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/bhumi0987/LeetCode/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -804,6 +807,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/bhumi0987/LeetCode/tree/master/0067-add-binary) |
 | [0477-total-hamming-distance](https://github.com/bhumi0987/LeetCode/tree/master/0477-total-hamming-distance) |
 | [0526-beautiful-arrangement](https://github.com/bhumi0987/LeetCode/tree/master/0526-beautiful-arrangement) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/bhumi0987/LeetCode/tree/master/0864-shortest-path-to-get-all-keys) |
