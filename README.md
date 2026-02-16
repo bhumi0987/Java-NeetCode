@@ -808,6 +808,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/bhumi0987/LeetCode/tree/master/0067-add-binary) |
+| [0190-reverse-bits](https://github.com/bhumi0987/LeetCode/tree/master/0190-reverse-bits) |
 | [0477-total-hamming-distance](https://github.com/bhumi0987/LeetCode/tree/master/0477-total-hamming-distance) |
 | [0526-beautiful-arrangement](https://github.com/bhumi0987/LeetCode/tree/master/0526-beautiful-arrangement) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/bhumi0987/LeetCode/tree/master/0864-shortest-path-to-get-all-keys) |
@@ -854,6 +855,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/bhumi0987/LeetCode/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/bhumi0987/LeetCode/tree/master/0190-reverse-bits) |
 | [1382-balance-a-binary-search-tree](https://github.com/bhumi0987/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [3721-longest-balanced-subarray-ii](https://github.com/bhumi0987/LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
 ## Sliding Window
