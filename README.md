@@ -507,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0406-queue-reconstruction-by-height](https://github.com/bhumi0987/LeetCode/tree/master/0406-queue-reconstruction-by-height) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/bhumi0987/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0759-set-intersection-size-at-least-two](https://github.com/bhumi0987/LeetCode/tree/master/0759-set-intersection-size-at-least-two) |
+| [0761-special-binary-string](https://github.com/bhumi0987/LeetCode/tree/master/0761-special-binary-string) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/bhumi0987/LeetCode/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0954-array-of-doubled-pairs](https://github.com/bhumi0987/LeetCode/tree/master/0954-array-of-doubled-pairs) |
 | [1009-pancake-sorting](https://github.com/bhumi0987/LeetCode/tree/master/1009-pancake-sorting) |
@@ -681,6 +682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/bhumi0987/LeetCode/tree/master/0067-add-binary) |
 | [0474-ones-and-zeroes](https://github.com/bhumi0987/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0696-count-binary-substrings](https://github.com/bhumi0987/LeetCode/tree/master/0696-count-binary-substrings) |
+| [0761-special-binary-string](https://github.com/bhumi0987/LeetCode/tree/master/0761-special-binary-string) |
 | [0839-similar-string-groups](https://github.com/bhumi0987/LeetCode/tree/master/0839-similar-string-groups) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/bhumi0987/LeetCode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/bhumi0987/LeetCode/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
@@ -866,6 +868,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/bhumi0987/LeetCode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/bhumi0987/LeetCode/tree/master/0190-reverse-bits) |
+| [0761-special-binary-string](https://github.com/bhumi0987/LeetCode/tree/master/0761-special-binary-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/bhumi0987/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [3721-longest-balanced-subarray-ii](https://github.com/bhumi0987/LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
 ## Sliding Window
