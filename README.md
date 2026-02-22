@@ -828,6 +828,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0693-binary-number-with-alternating-bits](https://github.com/bhumi0987/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/bhumi0987/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/bhumi0987/LeetCode/tree/master/0864-shortest-path-to-get-all-keys) |
+| [0868-binary-gap](https://github.com/bhumi0987/LeetCode/tree/master/0868-binary-gap) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/bhumi0987/LeetCode/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/bhumi0987/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1349-maximum-students-taking-exam](https://github.com/bhumi0987/LeetCode/tree/master/1349-maximum-students-taking-exam) |
