@@ -479,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/bhumi0987/LeetCode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/bhumi0987/LeetCode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/bhumi0987/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2531-make-number-of-distinct-characters-equal](https://github.com/bhumi0987/LeetCode/tree/master/2531-make-number-of-distinct-characters-equal) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/bhumi0987/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/bhumi0987/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2721-sum-of-distances](https://github.com/bhumi0987/LeetCode/tree/master/2721-sum-of-distances) |
@@ -715,6 +716,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/bhumi0987/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/bhumi0987/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2522-partition-string-into-substrings-with-values-at-most-k](https://github.com/bhumi0987/LeetCode/tree/master/2522-partition-string-into-substrings-with-values-at-most-k) |
+| [2531-make-number-of-distinct-characters-equal](https://github.com/bhumi0987/LeetCode/tree/master/2531-make-number-of-distinct-characters-equal) |
 | [2746-decremental-string-concatenation](https://github.com/bhumi0987/LeetCode/tree/master/2746-decremental-string-concatenation) |
 | [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/bhumi0987/LeetCode/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/bhumi0987/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -818,6 +820,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/bhumi0987/LeetCode/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/bhumi0987/LeetCode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/bhumi0987/LeetCode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
+| [2531-make-number-of-distinct-characters-equal](https://github.com/bhumi0987/LeetCode/tree/master/2531-make-number-of-distinct-characters-equal) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/bhumi0987/LeetCode/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [2982-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/bhumi0987/LeetCode/tree/master/2982-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/bhumi0987/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
