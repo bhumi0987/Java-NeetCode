@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/bhumi0987/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1989-minimum-xor-sum-of-two-arrays](https://github.com/bhumi0987/LeetCode/tree/master/1989-minimum-xor-sum-of-two-arrays) |
 | [1998-gcd-sort-of-an-array](https://github.com/bhumi0987/LeetCode/tree/master/1998-gcd-sort-of-an-array) |
+| [2007-find-original-array-from-doubled-array](https://github.com/bhumi0987/LeetCode/tree/master/2007-find-original-array-from-doubled-array) |
 | [2040-minimum-cost-to-reach-destination-in-time](https://github.com/bhumi0987/LeetCode/tree/master/2040-minimum-cost-to-reach-destination-in-time) |
 | [2054-two-best-non-overlapping-events](https://github.com/bhumi0987/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/bhumi0987/LeetCode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -410,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/bhumi0987/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/bhumi0987/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [1994-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/bhumi0987/LeetCode/tree/master/1994-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
+| [2007-find-original-array-from-doubled-array](https://github.com/bhumi0987/LeetCode/tree/master/2007-find-original-array-from-doubled-array) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/bhumi0987/LeetCode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/bhumi0987/LeetCode/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/bhumi0987/LeetCode/tree/master/2208-minimum-operations-to-halve-array-sum) |
@@ -472,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/bhumi0987/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1612-avoid-flood-in-the-city](https://github.com/bhumi0987/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/bhumi0987/LeetCode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
+| [2007-find-original-array-from-doubled-array](https://github.com/bhumi0987/LeetCode/tree/master/2007-find-original-array-from-doubled-array) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/bhumi0987/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2169-simple-bank-system](https://github.com/bhumi0987/LeetCode/tree/master/2169-simple-bank-system) |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/bhumi0987/LeetCode/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
@@ -531,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/bhumi0987/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/bhumi0987/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1998-gcd-sort-of-an-array](https://github.com/bhumi0987/LeetCode/tree/master/1998-gcd-sort-of-an-array) |
+| [2007-find-original-array-from-doubled-array](https://github.com/bhumi0987/LeetCode/tree/master/2007-find-original-array-from-doubled-array) |
 | [2054-two-best-non-overlapping-events](https://github.com/bhumi0987/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/bhumi0987/LeetCode/tree/master/2092-find-all-people-with-secret) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/bhumi0987/LeetCode/tree/master/2141-maximum-running-time-of-n-computers) |
