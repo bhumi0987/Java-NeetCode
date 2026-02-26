@@ -571,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/bhumi0987/LeetCode/tree/master/0067-add-binary) |
 | [1041-robot-bounded-in-circle](https://github.com/bhumi0987/LeetCode/tree/master/1041-robot-bounded-in-circle) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/bhumi0987/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1562-find-latest-group-of-size-m](https://github.com/bhumi0987/LeetCode/tree/master/1562-find-latest-group-of-size-m) |
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/bhumi0987/LeetCode/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/bhumi0987/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -706,6 +707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1041-robot-bounded-in-circle](https://github.com/bhumi0987/LeetCode/tree/master/1041-robot-bounded-in-circle) |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/bhumi0987/LeetCode/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/bhumi0987/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/bhumi0987/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/bhumi0987/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/bhumi0987/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/bhumi0987/LeetCode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
@@ -852,6 +854,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-binary-prefix-divisible-by-5](https://github.com/bhumi0987/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1349-maximum-students-taking-exam](https://github.com/bhumi0987/LeetCode/tree/master/1349-maximum-students-taking-exam) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/bhumi0987/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/bhumi0987/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/bhumi0987/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/bhumi0987/LeetCode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1989-minimum-xor-sum-of-two-arrays](https://github.com/bhumi0987/LeetCode/tree/master/1989-minimum-xor-sum-of-two-arrays) |
