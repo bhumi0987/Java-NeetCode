@@ -410,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/bhumi0987/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/bhumi0987/LeetCode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1659-get-the-maximum-score](https://github.com/bhumi0987/LeetCode/tree/master/1659-get-the-maximum-score) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/bhumi0987/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/bhumi0987/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/bhumi0987/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/bhumi0987/LeetCode/tree/master/1975-maximum-matrix-sum) |
@@ -716,6 +717,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-number-of-substrings-with-only-1s](https://github.com/bhumi0987/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/bhumi0987/LeetCode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/bhumi0987/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/bhumi0987/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/bhumi0987/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/bhumi0987/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1994-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/bhumi0987/LeetCode/tree/master/1994-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
