@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/bhumi0987/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0406-queue-reconstruction-by-height](https://github.com/bhumi0987/LeetCode/tree/master/0406-queue-reconstruction-by-height) |
 | [0407-trapping-rain-water-ii](https://github.com/bhumi0987/LeetCode/tree/master/0407-trapping-rain-water-ii) |
+| [0410-split-array-largest-sum](https://github.com/bhumi0987/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/bhumi0987/LeetCode/tree/master/0413-arithmetic-slices) |
 | [0417-pacific-atlantic-water-flow](https://github.com/bhumi0987/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0457-circular-array-loop](https://github.com/bhumi0987/LeetCode/tree/master/0457-circular-array-loop) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/bhumi0987/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/bhumi0987/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0410-split-array-largest-sum](https://github.com/bhumi0987/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/bhumi0987/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0794-swim-in-rising-water](https://github.com/bhumi0987/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/bhumi0987/LeetCode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/bhumi0987/LeetCode/tree/master/0011-container-with-most-water) |
+| [0410-split-array-largest-sum](https://github.com/bhumi0987/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/bhumi0987/LeetCode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0759-set-intersection-size-at-least-two](https://github.com/bhumi0987/LeetCode/tree/master/0759-set-intersection-size-at-least-two) |
 | [0770-couples-holding-hands](https://github.com/bhumi0987/LeetCode/tree/master/0770-couples-holding-hands) |
@@ -652,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/bhumi0987/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0096-unique-binary-search-trees](https://github.com/bhumi0987/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/bhumi0987/LeetCode/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [0410-split-array-largest-sum](https://github.com/bhumi0987/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/bhumi0987/LeetCode/tree/master/0413-arithmetic-slices) |
 | [0474-ones-and-zeroes](https://github.com/bhumi0987/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/bhumi0987/LeetCode/tree/master/0486-predict-the-winner) |
@@ -769,6 +773,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/bhumi0987/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/bhumi0987/LeetCode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1590-make-sum-divisible-by-p](https://github.com/bhumi0987/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1737-change-minimum-characters-to-satisfy-one-of-three-conditions](https://github.com/bhumi0987/LeetCode/tree/master/1737-change-minimum-characters-to-satisfy-one-of-three-conditions) |
