@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-simple-bank-system](https://github.com/bhumi0987/LeetCode/tree/master/2169-simple-bank-system) |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/bhumi0987/LeetCode/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
 | [2175-count-nodes-with-the-highest-score](https://github.com/bhumi0987/LeetCode/tree/master/2175-count-nodes-with-the-highest-score) |
+| [2202-maximize-the-topmost-element-after-k-moves](https://github.com/bhumi0987/LeetCode/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/bhumi0987/LeetCode/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/bhumi0987/LeetCode/tree/master/2208-minimum-operations-to-halve-array-sum) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/bhumi0987/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -429,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2007-find-original-array-from-doubled-array](https://github.com/bhumi0987/LeetCode/tree/master/2007-find-original-array-from-doubled-array) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/bhumi0987/LeetCode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/bhumi0987/LeetCode/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
+| [2202-maximize-the-topmost-element-after-k-moves](https://github.com/bhumi0987/LeetCode/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/bhumi0987/LeetCode/tree/master/2208-minimum-operations-to-halve-array-sum) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/bhumi0987/LeetCode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/bhumi0987/LeetCode/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
