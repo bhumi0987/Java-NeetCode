@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/bhumi0987/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3453-separate-squares-i](https://github.com/bhumi0987/LeetCode/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/bhumi0987/LeetCode/tree/master/3454-separate-squares-ii) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/bhumi0987/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3608-minimum-time-for-k-connected-components](https://github.com/bhumi0987/LeetCode/tree/master/3608-minimum-time-for-k-connected-components) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/bhumi0987/LeetCode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/bhumi0987/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -447,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/bhumi0987/LeetCode/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/bhumi0987/LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3576-transform-array-to-all-equal-elements](https://github.com/bhumi0987/LeetCode/tree/master/3576-transform-array-to-all-equal-elements) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/bhumi0987/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/bhumi0987/LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/bhumi0987/LeetCode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/bhumi0987/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -1036,6 +1038,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2976-minimum-cost-to-convert-string-i](https://github.com/bhumi0987/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/bhumi0987/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3528-unit-conversion-i](https://github.com/bhumi0987/LeetCode/tree/master/3528-unit-conversion-i) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/bhumi0987/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/bhumi0987/LeetCode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Backtracking
 |  |
@@ -1055,6 +1058,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0839-similar-string-groups](https://github.com/bhumi0987/LeetCode/tree/master/0839-similar-string-groups) |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/bhumi0987/LeetCode/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/bhumi0987/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/bhumi0987/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Trie
 |  |
 | ------- |
@@ -1071,4 +1075,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/bhumi0987/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/bhumi0987/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 <!---LeetCode Topics End-->
