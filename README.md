@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3122-minimum-number-of-operations-to-satisfy-conditions](https://github.com/bhumi0987/LeetCode/tree/master/3122-minimum-number-of-operations-to-satisfy-conditions) |
 | [3148-maximum-difference-score-in-a-grid](https://github.com/bhumi0987/LeetCode/tree/master/3148-maximum-difference-score-in-a-grid) |
 | [3175-find-the-first-player-to-win-k-games-in-a-row](https://github.com/bhumi0987/LeetCode/tree/master/3175-find-the-first-player-to-win-k-games-in-a-row) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/bhumi0987/LeetCode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3228-maximum-size-of-a-set-after-removals](https://github.com/bhumi0987/LeetCode/tree/master/3228-maximum-size-of-a-set-after-removals) |
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/bhumi0987/LeetCode/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
 | [3275-k-th-nearest-obstacle-queries](https://github.com/bhumi0987/LeetCode/tree/master/3275-k-th-nearest-obstacle-queries) |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/bhumi0987/LeetCode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3122-minimum-number-of-operations-to-satisfy-conditions](https://github.com/bhumi0987/LeetCode/tree/master/3122-minimum-number-of-operations-to-satisfy-conditions) |
 | [3148-maximum-difference-score-in-a-grid](https://github.com/bhumi0987/LeetCode/tree/master/3148-maximum-difference-score-in-a-grid) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/bhumi0987/LeetCode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/bhumi0987/LeetCode/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/bhumi0987/LeetCode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Math
@@ -809,6 +811,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3096-minimum-levels-to-gain-more-points](https://github.com/bhumi0987/LeetCode/tree/master/3096-minimum-levels-to-gain-more-points) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/bhumi0987/LeetCode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/bhumi0987/LeetCode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/bhumi0987/LeetCode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/bhumi0987/LeetCode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/bhumi0987/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/bhumi0987/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
