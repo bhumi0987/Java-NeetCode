@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/bhumi0987/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/bhumi0987/LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3531-count-covered-buildings](https://github.com/bhumi0987/LeetCode/tree/master/3531-count-covered-buildings) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/bhumi0987/LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/bhumi0987/LeetCode/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3576-transform-array-to-all-equal-elements](https://github.com/bhumi0987/LeetCode/tree/master/3576-transform-array-to-all-equal-elements) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/bhumi0987/LeetCode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3122-minimum-number-of-operations-to-satisfy-conditions](https://github.com/bhumi0987/LeetCode/tree/master/3122-minimum-number-of-operations-to-satisfy-conditions) |
 | [3148-maximum-difference-score-in-a-grid](https://github.com/bhumi0987/LeetCode/tree/master/3148-maximum-difference-score-in-a-grid) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/bhumi0987/LeetCode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/bhumi0987/LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/bhumi0987/LeetCode/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/bhumi0987/LeetCode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Math
@@ -592,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3433-count-mentions-per-user](https://github.com/bhumi0987/LeetCode/tree/master/3433-count-mentions-per-user) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/bhumi0987/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3531-count-covered-buildings](https://github.com/bhumi0987/LeetCode/tree/master/3531-count-covered-buildings) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/bhumi0987/LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3606-coupon-code-validator](https://github.com/bhumi0987/LeetCode/tree/master/3606-coupon-code-validator) |
 | [3608-minimum-time-for-k-connected-components](https://github.com/bhumi0987/LeetCode/tree/master/3608-minimum-time-for-k-connected-components) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/bhumi0987/LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
