@@ -805,6 +805,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2606-find-the-substring-with-maximum-cost](https://github.com/bhumi0987/LeetCode/tree/master/2606-find-the-substring-with-maximum-cost) |
 | [2746-decremental-string-concatenation](https://github.com/bhumi0987/LeetCode/tree/master/2746-decremental-string-concatenation) |
 | [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/bhumi0987/LeetCode/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/bhumi0987/LeetCode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/bhumi0987/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/bhumi0987/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/bhumi0987/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
