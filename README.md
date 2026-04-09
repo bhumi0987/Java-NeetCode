@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/bhumi0987/LeetCode/tree/master/2789-largest-element-in-an-array-after-merge-operations) |
 | [2792-neighboring-bitwise-xor](https://github.com/bhumi0987/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
 | [2835-minimum-operations-to-form-subsequence-with-target-sum](https://github.com/bhumi0987/LeetCode/tree/master/2835-minimum-operations-to-form-subsequence-with-target-sum) |
+| [2856-minimum-array-length-after-pair-removals](https://github.com/bhumi0987/LeetCode/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [2906-construct-product-matrix](https://github.com/bhumi0987/LeetCode/tree/master/2906-construct-product-matrix) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/bhumi0987/LeetCode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2945-find-maximum-non-decreasing-array-length](https://github.com/bhumi0987/LeetCode/tree/master/2945-find-maximum-non-decreasing-array-length) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2538-minimum-cost-to-make-array-equal](https://github.com/bhumi0987/LeetCode/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/bhumi0987/LeetCode/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/bhumi0987/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
+| [2856-minimum-array-length-after-pair-removals](https://github.com/bhumi0987/LeetCode/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [2945-find-maximum-non-decreasing-array-length](https://github.com/bhumi0987/LeetCode/tree/master/2945-find-maximum-non-decreasing-array-length) |
 | [2968-apply-operations-to-maximize-frequency-score](https://github.com/bhumi0987/LeetCode/tree/master/2968-apply-operations-to-maximize-frequency-score) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/bhumi0987/LeetCode/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
@@ -478,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/bhumi0987/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/bhumi0987/LeetCode/tree/master/2789-largest-element-in-an-array-after-merge-operations) |
 | [2835-minimum-operations-to-form-subsequence-with-target-sum](https://github.com/bhumi0987/LeetCode/tree/master/2835-minimum-operations-to-form-subsequence-with-target-sum) |
+| [2856-minimum-array-length-after-pair-removals](https://github.com/bhumi0987/LeetCode/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [3074-apple-redistribution-into-boxes](https://github.com/bhumi0987/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/bhumi0987/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3228-maximum-size-of-a-set-after-removals](https://github.com/bhumi0987/LeetCode/tree/master/3228-maximum-size-of-a-set-after-removals) |
@@ -502,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/bhumi0987/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/bhumi0987/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/bhumi0987/LeetCode/tree/master/2576-find-the-maximum-number-of-marked-indices) |
+| [2856-minimum-array-length-after-pair-removals](https://github.com/bhumi0987/LeetCode/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/bhumi0987/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3649-number-of-perfect-pairs](https://github.com/bhumi0987/LeetCode/tree/master/3649-number-of-perfect-pairs) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/bhumi0987/LeetCode/tree/master/3775-reverse-words-with-same-vowel-count) |
@@ -546,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2721-sum-of-distances](https://github.com/bhumi0987/LeetCode/tree/master/2721-sum-of-distances) |
 | [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/bhumi0987/LeetCode/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/bhumi0987/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [2856-minimum-array-length-after-pair-removals](https://github.com/bhumi0987/LeetCode/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/bhumi0987/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/bhumi0987/LeetCode/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [2982-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/bhumi0987/LeetCode/tree/master/2982-find-longest-special-substring-that-occurs-thrice-ii) |
@@ -934,6 +939,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/bhumi0987/LeetCode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/bhumi0987/LeetCode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2531-make-number-of-distinct-characters-equal](https://github.com/bhumi0987/LeetCode/tree/master/2531-make-number-of-distinct-characters-equal) |
+| [2856-minimum-array-length-after-pair-removals](https://github.com/bhumi0987/LeetCode/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/bhumi0987/LeetCode/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [2982-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/bhumi0987/LeetCode/tree/master/2982-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/bhumi0987/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
