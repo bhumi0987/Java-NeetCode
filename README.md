@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3660-jump-game-ix](https://github.com/bhumi0987/LeetCode/tree/master/3660-jump-game-ix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/bhumi0987/LeetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3721-longest-balanced-subarray-ii](https://github.com/bhumi0987/LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/bhumi0987/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3760-assign-elements-to-groups-with-constraints](https://github.com/bhumi0987/LeetCode/tree/master/3760-assign-elements-to-groups-with-constraints) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/bhumi0987/LeetCode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/bhumi0987/LeetCode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
@@ -572,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3713-longest-balanced-substring-i](https://github.com/bhumi0987/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/bhumi0987/LeetCode/tree/master/3714-longest-balanced-substring-ii) |
 | [3721-longest-balanced-subarray-ii](https://github.com/bhumi0987/LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/bhumi0987/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3760-assign-elements-to-groups-with-constraints](https://github.com/bhumi0987/LeetCode/tree/master/3760-assign-elements-to-groups-with-constraints) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/bhumi0987/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/bhumi0987/LeetCode/tree/master/3863-power-grid-maintenance) |
