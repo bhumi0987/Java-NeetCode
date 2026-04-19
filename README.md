@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/bhumi0987/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1766-tree-of-coprimes](https://github.com/bhumi0987/LeetCode/tree/master/1766-tree-of-coprimes) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/bhumi0987/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/bhumi0987/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/bhumi0987/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/bhumi0987/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/bhumi0987/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1562-find-latest-group-of-size-m](https://github.com/bhumi0987/LeetCode/tree/master/1562-find-latest-group-of-size-m) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/bhumi0987/LeetCode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1612-avoid-flood-in-the-city](https://github.com/bhumi0987/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/bhumi0987/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2054-two-best-non-overlapping-events](https://github.com/bhumi0987/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/bhumi0987/LeetCode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/bhumi0987/LeetCode/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
@@ -508,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0845-longest-mountain-in-array](https://github.com/bhumi0987/LeetCode/tree/master/0845-longest-mountain-in-array) |
 | [1009-pancake-sorting](https://github.com/bhumi0987/LeetCode/tree/master/1009-pancake-sorting) |
 | [1659-get-the-maximum-score](https://github.com/bhumi0987/LeetCode/tree/master/1659-get-the-maximum-score) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/bhumi0987/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/bhumi0987/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/bhumi0987/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/bhumi0987/LeetCode/tree/master/2576-find-the-maximum-number-of-marked-indices) |
