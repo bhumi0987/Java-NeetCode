@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/bhumi0987/LeetCode/tree/master/0011-container-with-most-water) |
 | [0066-plus-one](https://github.com/bhumi0987/LeetCode/tree/master/0066-plus-one) |
 | [0085-maximal-rectangle](https://github.com/bhumi0987/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0152-maximum-product-subarray](https://github.com/bhumi0987/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/bhumi0987/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/bhumi0987/LeetCode/tree/master/0169-majority-element) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/bhumi0987/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
@@ -726,6 +727,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0085-maximal-rectangle](https://github.com/bhumi0987/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0096-unique-binary-search-trees](https://github.com/bhumi0987/LeetCode/tree/master/0096-unique-binary-search-trees) |
+| [0152-maximum-product-subarray](https://github.com/bhumi0987/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/bhumi0987/LeetCode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0410-split-array-largest-sum](https://github.com/bhumi0987/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/bhumi0987/LeetCode/tree/master/0413-arithmetic-slices) |
