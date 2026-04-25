@@ -727,6 +727,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/bhumi0987/LeetCode/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/bhumi0987/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0096-unique-binary-search-trees](https://github.com/bhumi0987/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0152-maximum-product-subarray](https://github.com/bhumi0987/LeetCode/tree/master/0152-maximum-product-subarray) |
@@ -802,6 +803,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/bhumi0987/LeetCode/tree/master/0067-add-binary) |
+| [0072-edit-distance](https://github.com/bhumi0987/LeetCode/tree/master/0072-edit-distance) |
 | [0301-remove-invalid-parentheses](https://github.com/bhumi0987/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0474-ones-and-zeroes](https://github.com/bhumi0987/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0657-robot-return-to-origin](https://github.com/bhumi0987/LeetCode/tree/master/0657-robot-return-to-origin) |
