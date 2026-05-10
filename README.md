@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2746-decremental-string-concatenation](https://github.com/bhumi0987/LeetCode/tree/master/2746-decremental-string-concatenation) |
 | [2751-robot-collisions](https://github.com/bhumi0987/LeetCode/tree/master/2751-robot-collisions) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/bhumi0987/LeetCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/bhumi0987/LeetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/bhumi0987/LeetCode/tree/master/2789-largest-element-in-an-array-after-merge-operations) |
 | [2792-neighboring-bitwise-xor](https://github.com/bhumi0987/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
 | [2835-minimum-operations-to-form-subsequence-with-target-sum](https://github.com/bhumi0987/LeetCode/tree/master/2835-minimum-operations-to-form-subsequence-with-target-sum) |
@@ -784,6 +785,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2648-number-of-ways-to-earn-points](https://github.com/bhumi0987/LeetCode/tree/master/2648-number-of-ways-to-earn-points) |
 | [2746-decremental-string-concatenation](https://github.com/bhumi0987/LeetCode/tree/master/2746-decremental-string-concatenation) |
 | [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/bhumi0987/LeetCode/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/bhumi0987/LeetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2945-find-maximum-non-decreasing-array-length](https://github.com/bhumi0987/LeetCode/tree/master/2945-find-maximum-non-decreasing-array-length) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/bhumi0987/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/bhumi0987/LeetCode/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
