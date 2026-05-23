@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/bhumi0987/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/bhumi0987/LeetCode/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/bhumi0987/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/bhumi0987/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1766-tree-of-coprimes](https://github.com/bhumi0987/LeetCode/tree/master/1766-tree-of-coprimes) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/bhumi0987/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/bhumi0987/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
