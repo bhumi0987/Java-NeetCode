@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3074-apple-redistribution-into-boxes](https://github.com/bhumi0987/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/bhumi0987/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/bhumi0987/LeetCode/tree/master/3079-find-the-sum-of-encrypted-integers) |
+| [3093-longest-common-suffix-queries](https://github.com/bhumi0987/LeetCode/tree/master/3093-longest-common-suffix-queries) |
 | [3096-minimum-levels-to-gain-more-points](https://github.com/bhumi0987/LeetCode/tree/master/3096-minimum-levels-to-gain-more-points) |
 | [3122-minimum-number-of-operations-to-satisfy-conditions](https://github.com/bhumi0987/LeetCode/tree/master/3122-minimum-number-of-operations-to-satisfy-conditions) |
 | [3148-maximum-difference-score-in-a-grid](https://github.com/bhumi0987/LeetCode/tree/master/3148-maximum-difference-score-in-a-grid) |
@@ -876,6 +877,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/bhumi0987/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/bhumi0987/LeetCode/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [2982-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/bhumi0987/LeetCode/tree/master/2982-find-longest-special-substring-that-occurs-thrice-ii) |
+| [3093-longest-common-suffix-queries](https://github.com/bhumi0987/LeetCode/tree/master/3093-longest-common-suffix-queries) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/bhumi0987/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/bhumi0987/LeetCode/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/bhumi0987/LeetCode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
@@ -1196,6 +1198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/bhumi0987/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3093-longest-common-suffix-queries](https://github.com/bhumi0987/LeetCode/tree/master/3093-longest-common-suffix-queries) |
 ## Rolling Hash
 |  |
 | ------- |
