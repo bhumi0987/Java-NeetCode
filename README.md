@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2499-minimum-money-required-before-transactions](https://github.com/bhumi0987/LeetCode/tree/master/2499-minimum-money-required-before-transactions) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/bhumi0987/LeetCode/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2573-find-the-string-with-lcp](https://github.com/bhumi0987/LeetCode/tree/master/2573-find-the-string-with-lcp) |
+| [2574-left-and-right-sum-differences](https://github.com/bhumi0987/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/bhumi0987/LeetCode/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [2604-minimum-operations-to-make-array-equal-ii](https://github.com/bhumi0987/LeetCode/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
 | [2606-find-the-substring-with-maximum-cost](https://github.com/bhumi0987/LeetCode/tree/master/2606-find-the-substring-with-maximum-cost) |
@@ -919,6 +920,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2281-sum-of-total-strength-of-wizards](https://github.com/bhumi0987/LeetCode/tree/master/2281-sum-of-total-strength-of-wizards) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/bhumi0987/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/bhumi0987/LeetCode/tree/master/2538-minimum-cost-to-make-array-equal) |
+| [2574-left-and-right-sum-differences](https://github.com/bhumi0987/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/bhumi0987/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2721-sum-of-distances](https://github.com/bhumi0987/LeetCode/tree/master/2721-sum-of-distances) |
 | [2906-construct-product-matrix](https://github.com/bhumi0987/LeetCode/tree/master/2906-construct-product-matrix) |
