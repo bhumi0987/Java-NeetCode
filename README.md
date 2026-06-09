@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/bhumi0987/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3660-jump-game-ix](https://github.com/bhumi0987/LeetCode/tree/master/3660-jump-game-ix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/bhumi0987/LeetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3689-maximum-total-subarray-value-i](https://github.com/bhumi0987/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/bhumi0987/LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/bhumi0987/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3760-assign-elements-to-groups-with-constraints](https://github.com/bhumi0987/LeetCode/tree/master/3760-assign-elements-to-groups-with-constraints) |
@@ -525,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/bhumi0987/LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/bhumi0987/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/bhumi0987/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3689-maximum-total-subarray-value-i](https://github.com/bhumi0987/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/bhumi0987/LeetCode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/bhumi0987/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/bhumi0987/LeetCode/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
