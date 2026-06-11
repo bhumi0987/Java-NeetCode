@@ -463,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3317-find-the-number-of-possible-ways-for-an-event](https://github.com/bhumi0987/LeetCode/tree/master/3317-find-the-number-of-possible-ways-for-an-event) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/bhumi0987/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/bhumi0987/LeetCode/tree/master/3433-count-mentions-per-user) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/bhumi0987/LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/bhumi0987/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/bhumi0987/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3649-number-of-perfect-pairs](https://github.com/bhumi0987/LeetCode/tree/master/3649-number-of-perfect-pairs) |
@@ -750,6 +751,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2872-maximum-number-of-k-divisible-components](https://github.com/bhumi0987/LeetCode/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3105-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/bhumi0987/LeetCode/tree/master/3105-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3528-unit-conversion-i](https://github.com/bhumi0987/LeetCode/tree/master/3528-unit-conversion-i) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/bhumi0987/LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3863-power-grid-maintenance](https://github.com/bhumi0987/LeetCode/tree/master/3863-power-grid-maintenance) |
 ## Union Find
 |  |
@@ -966,6 +968,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2175-count-nodes-with-the-highest-score](https://github.com/bhumi0987/LeetCode/tree/master/2175-count-nodes-with-the-highest-score) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/bhumi0987/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/bhumi0987/LeetCode/tree/master/2872-maximum-number-of-k-divisible-components) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/bhumi0987/LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Binary Search Tree
 |  |
 | ------- |
