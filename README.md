@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/bhumi0987/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/bhumi0987/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/bhumi0987/LeetCode/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/bhumi0987/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/bhumi0987/LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/bhumi0987/LeetCode/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3576-transform-array-to-all-equal-elements](https://github.com/bhumi0987/LeetCode/tree/master/3576-transform-array-to-all-equal-elements) |
@@ -464,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/bhumi0987/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/bhumi0987/LeetCode/tree/master/3433-count-mentions-per-user) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/bhumi0987/LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/bhumi0987/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/bhumi0987/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/bhumi0987/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3649-number-of-perfect-pairs](https://github.com/bhumi0987/LeetCode/tree/master/3649-number-of-perfect-pairs) |
@@ -752,6 +754,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3105-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/bhumi0987/LeetCode/tree/master/3105-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3528-unit-conversion-i](https://github.com/bhumi0987/LeetCode/tree/master/3528-unit-conversion-i) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/bhumi0987/LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/bhumi0987/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3863-power-grid-maintenance](https://github.com/bhumi0987/LeetCode/tree/master/3863-power-grid-maintenance) |
 ## Union Find
 |  |
@@ -839,6 +842,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3351-sum-of-good-subsequences](https://github.com/bhumi0987/LeetCode/tree/master/3351-sum-of-good-subsequences) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/bhumi0987/LeetCode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/bhumi0987/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/bhumi0987/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/bhumi0987/LeetCode/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/bhumi0987/LeetCode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3640-trionic-array-ii](https://github.com/bhumi0987/LeetCode/tree/master/3640-trionic-array-ii) |
@@ -969,6 +973,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/bhumi0987/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/bhumi0987/LeetCode/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/bhumi0987/LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/bhumi0987/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -1053,6 +1058,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/bhumi0987/LeetCode/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/bhumi0987/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/bhumi0987/LeetCode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/bhumi0987/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/bhumi0987/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Combinatorics
 |  |
