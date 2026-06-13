@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/bhumi0987/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/bhumi0987/LeetCode/tree/master/0659-split-array-into-consecutive-subsequences) |
+| [0743-network-delay-time](https://github.com/bhumi0987/LeetCode/tree/master/0743-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/bhumi0987/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0918-reachable-nodes-in-subdivided-graph](https://github.com/bhumi0987/LeetCode/tree/master/0918-reachable-nodes-in-subdivided-graph) |
 | [1338-reduce-array-size-to-the-half](https://github.com/bhumi0987/LeetCode/tree/master/1338-reduce-array-size-to-the-half) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/bhumi0987/LeetCode/tree/master/0743-network-delay-time) |
 | [0918-reachable-nodes-in-subdivided-graph](https://github.com/bhumi0987/LeetCode/tree/master/0918-reachable-nodes-in-subdivided-graph) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/bhumi0987/LeetCode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2686-minimum-cost-of-a-path-with-special-roads](https://github.com/bhumi0987/LeetCode/tree/master/2686-minimum-cost-of-a-path-with-special-roads) |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/bhumi0987/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0407-trapping-rain-water-ii](https://github.com/bhumi0987/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/bhumi0987/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0743-network-delay-time](https://github.com/bhumi0987/LeetCode/tree/master/0743-network-delay-time) |
 | [0770-couples-holding-hands](https://github.com/bhumi0987/LeetCode/tree/master/0770-couples-holding-hands) |
 | [0794-swim-in-rising-water](https://github.com/bhumi0987/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0839-similar-string-groups](https://github.com/bhumi0987/LeetCode/tree/master/0839-similar-string-groups) |
@@ -731,6 +734,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/bhumi0987/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/bhumi0987/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0687-longest-univalue-path](https://github.com/bhumi0987/LeetCode/tree/master/0687-longest-univalue-path) |
+| [0743-network-delay-time](https://github.com/bhumi0987/LeetCode/tree/master/0743-network-delay-time) |
 | [0770-couples-holding-hands](https://github.com/bhumi0987/LeetCode/tree/master/0770-couples-holding-hands) |
 | [0794-swim-in-rising-water](https://github.com/bhumi0987/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0839-similar-string-groups](https://github.com/bhumi0987/LeetCode/tree/master/0839-similar-string-groups) |
@@ -1197,6 +1201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/bhumi0987/LeetCode/tree/master/0743-network-delay-time) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/bhumi0987/LeetCode/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/bhumi0987/LeetCode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1761-minimum-degree-of-a-connected-trio-in-a-graph](https://github.com/bhumi0987/LeetCode/tree/master/1761-minimum-degree-of-a-connected-trio-in-a-graph) |
