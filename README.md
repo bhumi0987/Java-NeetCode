@@ -1261,4 +1261,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3474-lexicographically-smallest-generated-string](https://github.com/bhumi0987/LeetCode/tree/master/3474-lexicographically-smallest-generated-string) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/bhumi0987/LeetCode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
