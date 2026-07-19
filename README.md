@@ -329,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0085-maximal-rectangle](https://github.com/bhumi0987/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/bhumi0987/LeetCode/tree/master/0779-max-chunks-to-make-sorted-ii) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/bhumi0987/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/bhumi0987/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/bhumi0987/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/bhumi0987/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0085-maximal-rectangle](https://github.com/bhumi0987/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/bhumi0987/LeetCode/tree/master/0779-max-chunks-to-make-sorted-ii) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/bhumi0987/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/bhumi0987/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2281-sum-of-total-strength-of-wizards](https://github.com/bhumi0987/LeetCode/tree/master/2281-sum-of-total-strength-of-wizards) |
 | [2419-subarray-with-elements-greater-than-varying-threshold](https://github.com/bhumi0987/LeetCode/tree/master/2419-subarray-with-elements-greater-than-varying-threshold) |
@@ -488,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0954-array-of-doubled-pairs](https://github.com/bhumi0987/LeetCode/tree/master/0954-array-of-doubled-pairs) |
 | [1009-pancake-sorting](https://github.com/bhumi0987/LeetCode/tree/master/1009-pancake-sorting) |
 | [1024-video-stitching](https://github.com/bhumi0987/LeetCode/tree/master/1024-video-stitching) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/bhumi0987/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1090-largest-values-from-labels](https://github.com/bhumi0987/LeetCode/tree/master/1090-largest-values-from-labels) |
 | [1139-previous-permutation-with-one-swap](https://github.com/bhumi0987/LeetCode/tree/master/1139-previous-permutation-with-one-swap) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/bhumi0987/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -874,6 +877,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/bhumi0987/LeetCode/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1041-robot-bounded-in-circle](https://github.com/bhumi0987/LeetCode/tree/master/1041-robot-bounded-in-circle) |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/bhumi0987/LeetCode/tree/master/1061-lexicographically-smallest-equivalent-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/bhumi0987/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1143-longest-common-subsequence](https://github.com/bhumi0987/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/bhumi0987/LeetCode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/bhumi0987/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
