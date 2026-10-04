@@ -328,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/bhumi0987/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0678-valid-parenthesis-string](https://github.com/bhumi0987/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/bhumi0987/LeetCode/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/bhumi0987/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/bhumi0987/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -484,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/bhumi0987/LeetCode/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/bhumi0987/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/bhumi0987/LeetCode/tree/master/0659-split-array-into-consecutive-subsequences) |
+| [0678-valid-parenthesis-string](https://github.com/bhumi0987/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0759-set-intersection-size-at-least-two](https://github.com/bhumi0987/LeetCode/tree/master/0759-set-intersection-size-at-least-two) |
 | [0770-couples-holding-hands](https://github.com/bhumi0987/LeetCode/tree/master/0770-couples-holding-hands) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/bhumi0987/LeetCode/tree/master/0779-max-chunks-to-make-sorted-ii) |
@@ -795,6 +797,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/bhumi0987/LeetCode/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/bhumi0987/LeetCode/tree/master/0518-coin-change-ii) |
 | [0526-beautiful-arrangement](https://github.com/bhumi0987/LeetCode/tree/master/0526-beautiful-arrangement) |
+| [0678-valid-parenthesis-string](https://github.com/bhumi0987/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0741-cherry-pickup](https://github.com/bhumi0987/LeetCode/tree/master/0741-cherry-pickup) |
 | [0799-champagne-tower](https://github.com/bhumi0987/LeetCode/tree/master/0799-champagne-tower) |
 | [0845-longest-mountain-in-array](https://github.com/bhumi0987/LeetCode/tree/master/0845-longest-mountain-in-array) |
@@ -870,6 +873,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/bhumi0987/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0474-ones-and-zeroes](https://github.com/bhumi0987/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0657-robot-return-to-origin](https://github.com/bhumi0987/LeetCode/tree/master/0657-robot-return-to-origin) |
+| [0678-valid-parenthesis-string](https://github.com/bhumi0987/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0696-count-binary-substrings](https://github.com/bhumi0987/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/bhumi0987/LeetCode/tree/master/0761-special-binary-string) |
 | [0839-similar-string-groups](https://github.com/bhumi0987/LeetCode/tree/master/0839-similar-string-groups) |
@@ -1274,4 +1278,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/bhumi0987/LeetCode/tree/master/0175-combine-two-tables) |
 | [0595-big-countries](https://github.com/bhumi0987/LeetCode/tree/master/0595-big-countries) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/bhumi0987/LeetCode/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
