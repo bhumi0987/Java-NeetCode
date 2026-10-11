@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2751-robot-collisions](https://github.com/bhumi0987/LeetCode/tree/master/2751-robot-collisions) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/bhumi0987/LeetCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/bhumi0987/LeetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/bhumi0987/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/bhumi0987/LeetCode/tree/master/2789-largest-element-in-an-array-after-merge-operations) |
 | [2792-neighboring-bitwise-xor](https://github.com/bhumi0987/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
 | [2835-minimum-operations-to-form-subsequence-with-target-sum](https://github.com/bhumi0987/LeetCode/tree/master/2835-minimum-operations-to-form-subsequence-with-target-sum) |
@@ -1099,6 +1100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/bhumi0987/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1761-minimum-degree-of-a-connected-trio-in-a-graph](https://github.com/bhumi0987/LeetCode/tree/master/1761-minimum-degree-of-a-connected-trio-in-a-graph) |
 | [1925-count-square-sum-triples](https://github.com/bhumi0987/LeetCode/tree/master/1925-count-square-sum-triples) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/bhumi0987/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2959-number-of-possible-sets-of-closing-branches](https://github.com/bhumi0987/LeetCode/tree/master/2959-number-of-possible-sets-of-closing-branches) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/bhumi0987/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/bhumi0987/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
